@@ -11,7 +11,7 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 	- Mobile Application Development 
 	- Web Application Development 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy,Science,anything that interests you.
+- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
 
 
 

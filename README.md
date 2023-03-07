@@ -6,7 +6,7 @@ I'm a second year software engineering undergraduate at University of Kelaniya a
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🔭 I’m currently studying:
-	- Mobile Application Development 
+	- Data Science 
 	- Web Application Development 
 - :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
 - 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
